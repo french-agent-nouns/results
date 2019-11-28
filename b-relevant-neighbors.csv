@@ -1,80 +1,80 @@
-NEIGHBOUR	CENTROID	MORPH	G.BASE	S.BASE	AFFIX	RANK	COS
-NC:clochard	b	affixed	v	action	ard	51	0.7141319795403549
-NC:débrouillard	b	affixed	v	action	ard	33	0.7265800201356729
-NC:fêtard	b	affixed	v	action	ard	41	0.7191880464125324
-NC:vantard	b	affixed	v	action	ard	6	0.7969986472583861
-NC:affabulateur	b	affixed	v	action	eur	71	0.6964042687784462
-NC:bretteur	b	affixed	n	object	eur	50	0.7143824766358127
-NC:buveur	b	affixed	v	action	eur	38	0.7219492233388853
-NC:cambrioleur	b	affixed	v	action	eur	72	0.6956547148583795
-NC:charmeur	b	affixed	v	action	eur	14	0.7726761551121764
-NC:farceur	b	affixed	n	action	eur	1	0.8501683771816433
-NC:gaffeur	b	affixed	v	action	eur	16	0.7661754898513423
-NC:hâbleur	b	affixed	v	action	eur	3	0.8129886127147206
-NC:jouisseur	b	affixed	v	action	eur	13	0.7730738496914907
-NC:menteur	b	affixed	v	action	eur	9	0.7871022020111997
-NC:râleur	b	affixed	v	action	eur	4	0.8035628275508433
-NC:rêveur	b	affixed	v	action	eur	47	0.7149473657289771
-NC:séducteur	b	affixed	v	action	eur	7	0.7947761991683437
-NC:tricheur	b	affixed	v	action	eur	31	0.7289234039322786
-NC:voleur	b	affixed	v	action	eur	29	0.7320530943665752
-NC:magicien	b	affixed	n	domain	ien	99	0.6812169509038195
-NC:arriviste	b	affixed	v	action	iste	15	0.7673627836568163
-NC:cuistot	b	complex	na	na	na	64	0.7008087157476968
-NC:gangster	b	complex	na	na	na	88	0.6882475635895441
-NC:ivrogne	b	complex	na	na	na	10	0.7863058645241177
-NC:poivrot	b	complex	na	na	na	43	0.7174059193031529
-NC:fainéant	b	compound	na	na	na	18	0.7589186065846717
-NC:misanthrope	b	compound	na	na	na	66	0.7002172693303487
-NC:sociopathe	b	compound	na	na	na	42	0.7186111230327596
-NC:vaurien	b	compound	na	na	na	11	0.7792485409971479
-NC:abruti	b	conversion	a	property	na	93	0.6854126976153128
-NC:arrogant	b	conversion	a	property	na	60	0.7037211974382058
-NC:débauché	b	conversion	a	property	na	68	0.6988468011418768
-NC:entêté	b	conversion	a	property	na	92	0.6858857924097536
-NC:ignorant	b	conversion	a	property	na	100	0.6811128130571058
-NC:maniaque	b	conversion	a	property	na	69	0.6975012737480822
-NC:peureux	b	conversion	a	property	na	19	0.755533067677978
-NC:sadique	b	conversion	a	property	na	30	0.7296560566954277
-NC:teigneux	b	conversion	a	property	na	21	0.7506515442053256
-NC:nounours	b	extragram	na	na	na	77	0.6936944279374694
-NC:cafard	b	simple	na	na	na	85	0.6901695709439563
-NC:cancre	b	simple	na	na	na	25	0.7404766785146994
-NC:charlatan	b	simple	na	na	na	63	0.7009229990100831
-NC:clown	b	simple	na	na	na	82	0.6916009459326966
-NC:cow-boy	b	simple	na	na	na	91	0.6863417102194902
-NC:fayot	b	simple	na	na	na	98	0.681746395452048
-NC:filou	b	simple	na	na	na	2	0.8151263535925077
-NC:garnement	b	simple	na	na	na	26	0.7384728317720001
-NC:gigolo	b	simple	na	na	na	45	0.7153209888195929
-NC:goinfre	b	simple	na	na	na	17	0.761834835462308
-NC:goujat	b	simple	na	na	na	96	0.6850600124782866
-NC:gredin	b	simple	na	na	na	65	0.700697635243748
-NC:nabot	b	simple	na	na	na	52	0.7124832791136544
-NC:bavard	b	undet	na	na	na	22	0.749878149240223
-NC:crétin	b	undet	na	na	na	20	0.7545679669125693
-NC:effronté	b	undet	na	na	na	28	0.7343220173141409
-NC:escroc	b	undet	na	na	na	12	0.7761250058394107
-NC:fanfaron	b	undet	na	na	na	5	0.7988160407419957
-NC:fourbe	b	undet	na	na	na	44	0.7154809808024568
-NC:fripon	b	undet	na	na	na	80	0.6919127661937734
-NC:gamin	b	undet	na	na	na	73	0.6951605097039678
-NC:gentil	b	undet	na	na	na	87	0.6887685320022567
-NC:idiot	b	undet	na	na	na	32	0.7284419876378725
-NC:imbécile	b	undet	na	na	na	76	0.693702862392035
-NC:impertinent	b	undet	na	na	na	95	0.6851356341792791
-NC:méchant	b	undet	na	na	na	48	0.7149284835834241
-NC:mythomane	b	undet	na	na	na	40	0.7205162633630036
-NC:niais	b	undet	na	na	na	24	0.7445507085181797
-NC:pervers	b	undet	na	na	na	39	0.721241660871709
-NC:poltron	b	undet	na	na	na	8	0.7913624799596439
-NC:ringard	b	undet	na	na	na	49	0.7147514768381893
-NC:ronchon	b	undet	na	na	na	81	0.6918439193537878
-NC:rustre	b	undet	na	na	na	23	0.7471117925244621
-NC:simplet	b	undet	na	na	na	55	0.7083785668254623
-NC:sournois	b	undet	na	na	na	83	0.6915464365258478
-NC:têtu	b	undet	na	na	na	54	0.7101700445090273
-NC:truand	b	undet	na	na	na	46	0.7151570600355417
-NC:vagabond	b	undet	na	na	na	37	0.7228076486689076
-NC:vilain	b	undet	na	na	na	75	0.6942740784718395
-NC:voyou	b	undet	na	na	na	35	0.7243881140604201
+NEIGHBOUR	CENTROID	MORPH	G.BASE	S.BASE	AFFIX	RANK	COS C1  C2  C3
+NC:farceur	b	affixed	n	action	eur	1	0.8501683771816433	0	0	1
+NC:filou	b	simple				2	0.8151263535925077	0	0	1
+NC:hâbleur	b	affixed	v	action	eur	3	0.8129886127147206	0	0	1
+NC:râleur	b	affixed	v	action	eur	4	0.8035628275508433	0	0	1
+NC:fanfaron	b	undet				5	0.7988160407419957	0	0	1
+NC:vantard	b	affixed	v	action	ard	6	0.7969986472583861	0	0	1
+NC:séducteur	b	affixed	v	action	eur	7	0.7947761991683437	0	0	1
+NC:poltron	b	undet				8	0.7913624799596439	0	0	1
+NC:menteur	b	affixed	v	action	eur	9	0.7871022020111997	0	0	1
+NC:ivrogne	b	complex				10	0.7863058645241177	0	0	1
+NC:vaurien	b	compound				11	0.7792485409971479	0	0	1
+NC:escroc	b	undet				12	0.7761250058394107	1	0	1
+NC:jouisseur	b	affixed	v	action	eur	13	0.7730738496914907	0	0	1
+NC:charmeur	b	affixed	v	action	eur	14	0.7726761551121764	0	0	1
+NC:arriviste	b	affixed	v	action	iste	15	0.7673627836568163	0	0	1
+NC:gaffeur	b	affixed	v	action	eur	16	0.7661754898513423	0	0	1
+NC:goinfre	b	simple				17	0.761834835462308	0	0	1
+NC:fainéant	b	compound				18	0.7589186065846717	0	0	1
+NC:peureux	b	conversion	a	property		19	0.755533067677978	0	0	1
+NC:crétin	b	undet				20	0.7545679669125693	0	0	1
+NC:teigneux	b	conversion	a	property		21	0.7506515442053256	0	0	1
+NC:bavard	b	undet				22	0.749878149240223	0	0	1
+NC:rustre	b	undet				23	0.7471117925244621	0	0	1
+NC:niais	b	undet				24	0.7445507085181797	0	0	1
+NC:cancre	b	simple				25	0.7404766785146994	0	0	1
+NC:garnement	b	simple				26	0.7384728317720001	0	0	1
+NC:effronté	b	undet				28	0.7343220173141409	0	0	1
+NC:voleur	b	affixed	v	action	eur	29	0.7320530943665752	1	1	1
+NC:sadique	b	conversion	a	property		30	0.7296560566954277	0	0	1
+NC:tricheur	b	affixed	v	action	eur	31	0.7289234039322786	0	0	1
+NC:idiot	b	undet				32	0.7284419876378725	0	0	1
+NC:débrouillard	b	affixed	v	action	ard	33	0.7265800201356729	0	0	1
+NC:voyou	b	undet				35	0.7243881140604201	1	0	1
+NC:vagabond	b	undet				37	0.7228076486689076	0	0	0
+NC:buveur	b	affixed	v	action	eur	38	0.7219492233388853	0	0	1
+NC:pervers	b	undet				39	0.721241660871709	0	0	1
+NC:mythomane	b	undet				40	0.7205162633630036	0	0	1
+NC:fêtard	b	affixed	v	action	ard	41	0.7191880464125324	0	0	1
+NC:sociopathe	b	compound				42	0.7186111230327596	0	0	1
+NC:poivrot	b	complex				43	0.7174059193031529	0	0	1
+NC:fourbe	b	undet				44	0.7154809808024568	0	0	1
+NC:gigolo	b	simple				45	0.7153209888195929	1	0	1
+NC:truand	b	undet				46	0.7151570600355417	1	0	1
+NC:rêveur	b	affixed	v	action	eur	47	0.7149473657289771	0	1	1
+NC:méchant	b	undet				48	0.7149284835834241	0	0	1
+NC:ringard	b	undet				49	0.7147514768381893	0	0	1
+NC:bretteur	b	affixed	n	object	eur	50	0.7143824766358127	0	0	1
+NC:clochard	b	affixed	v	action	ard	51	0.7141319795403549	1	0	0
+NC:nabot	b	simple				52	0.7124832791136544	0	0	0
+NC:têtu	b	undet				54	0.7101700445090273	0	0	1
+NC:simplet	b	undet				55	0.7083785668254623	0	0	1
+NC:arrogant	b	conversion	a	property		60	0.7037211974382058	0	0	1
+NC:charlatan	b	simple				63	0.7009229990100831	0	0	1
+NC:cuistot	b	complex				64	0.7008087157476968	1	0	0
+NC:gredin	b	simple				65	0.700697635243748	0	0	1
+NC:misanthrope	b	compound				66	0.7002172693303487	0	0	1
+NC:débauché	b	conversion	a	property		68	0.6988468011418768	0	0	1
+NC:maniaque	b	conversion	a	property		69	0.6975012737480822	0	0	1
+NC:affabulateur	b	affixed	v	action	eur	71	0.6964042687784462	0	0	1
+NC:cambrioleur	b	affixed	v	action	eur	72	0.6956547148583795	1	1	1
+NC:gamin	b	undet				73	0.6951605097039678	0	0	1
+NC:vilain	b	undet				75	0.6942740784718395	0	0	1
+NC:imbécile	b	undet				76	0.693702862392035	0	0	1
+NC:nounours	b	extragram				77	0.6936944279374694	0	0	0
+NC:fripon	b	undet				80	0.6919127661937734	0	0	1
+NC:ronchon	b	undet				81	0.6918439193537878	0	0	1
+NC:clown	b	simple		property		82	0.6916009459326966	1	0	1
+NC:sournois	b	undet				83	0.6915464365258478	0	0	1
+NC:cafard	b	simple				85	0.6901695709439563	0	0	0
+NC:gentil	b	undet				87	0.6887685320022567	0	0	1
+NC:gangster	b	complex				88	0.6882475635895441	1	0	1
+NC:cow-boy	b	simple				91	0.6863417102194902	1	0	0
+NC:entêté	b	conversion	a	property		92	0.6858857924097536	0	0	1
+NC:abruti	b	conversion	a	property		93	0.6854126976153128	0	0	1
+NC:impertinent	b	undet				95	0.6851356341792791	0	0	1
+NC:goujat	b	simple				96	0.6850600124782866	0	0	1
+NC:fayot	b	simple				98	0.681746395452048	0	0	1
+NC:magicien	b	affixed	n	domain	ien	99	0.6812169509038195	1	0	0
+NC:ignorant	b	conversion	a	property		100	0.6811128130571058	0	0	1
