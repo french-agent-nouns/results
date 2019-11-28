@@ -1,0 +1,101 @@
+NEIGHBOR	MORPH	G.BASE	S.BASE	AFFIX	RANK	COS
+NC:plombier	affixed	n	object	ier	1	0.7690123830970691
+NC:truand	undet				2	0.7506926826226762
+NC:escroc	undet				3	0.7448675760777574
+NC:rabatteur	affixed	v	action	eur	4	0.730470672468971
+NC:proxénète	simple				5	0.7224011629813885
+NC:coiffeur	affixed	v	action	eur	6	0.7176723498070533
+NC:prestidigitateur	affixed	v	action	eur	7	0.7169261303119986
+NC:garagiste	affixed	n	object	iste	8	0.7043551389545761
+NC:gangster	complex				9	0.7041058603026602
+NC:malfrat	complex				10	0.699395096716705
+NC:camionneur	affixed	n	object	eur	11	0.6988551113689152
+NC:pickpocket	simple				12	0.6979068568085302
+NC:cuisinier	affixed	n	domain	ier	13	0.6968716817985932
+NC:soigneur	affixed	v	action	eur	14	0.6932408870989699
+NC:charlatan	simple				15	0.6920111042520192
+NC:magicien	affixed	n	domain	ien	16	0.6907609790369069
+NC:voleur	affixed	v	action	eur	17	0.6898002197776505
+NC:voyou	undet				18	0.6874292090421472
+NC:colporteur	affixed	v	action	eur	19	0.6825413520856269
+NC:cambrioleur	affixed	v	action	eur	20	0.6822576554717628
+NC:dompteur	affixed	v	action	eur	21	0.6794095892721759
+NC:farceur	affixed	n	action	eur	22	0.6782274158116006
+NC:receleur	affixed	v	action	eur	23	0.677753279274752
+NC:jardinier	affixed	n	object	ier	24	0.6770679886946844
+NC:cuistot	complex				25	0.6764559059876384
+NC:assassin	undet				26	0.6727777417453961
+NC:bijoutier	affixed	n	object	ier	27	0.6709976560229245
+NC:domestique	conversion	a	property		28	0.6704653793713442
+NC:postier	affixed	n	institution	ier	29	0.6674234492922351
+NC:déménageur	affixed	v	action	eur	30	0.6666207321361297
+NC:criminel	conversion	a	property		31	0.6661135496606507
+NC:drogué	conversion	v	action		32	0.6619303129801967
+NC:contrebandier	affixed	n	domain	ier	33	0.6614917678790962
+NC:faussaire	affixed	n	object	aire	34	0.6613308685446263
+NC:ventriloque	compound				35	0.6586216468402945
+NC:informateur	affixed	v	action	eur	36	0.6573693559158819
+NC:clochard	affixed	v	action	ard	37	0.6547546061803342
+NC:policier	affixed	n	institution	ier	38	0.6541966809419238
+NC:ivrogne	complex				39	0.6541941415876596
+NC:armurier	affixed	n	object	ier	40	0.6539466244334331
+NC:machiniste	affixed	n	object	iste	41	0.6521794059308611
+NC:boucher	affixed	n	object	ier	42	0.6521748830390871
+NC:marionnettiste	affixed	n	object	iste	43	0.6513746601107121
+NC:pompiste	affixed	n	object	iste	44	0.6512483830765892
+NC:vaurien	compound				45	0.6510856975380579
+NC:bandit	simple				46	0.6506252808247864
+NC:coursier	affixed	n	action	ier	47	0.6498837624403939
+NC:fêtard	affixed	v	action	ard	48	0.6497421920558993
+NC:éboueur	affixed	v	action	eur	49	0.6494085757656202
+NC:contremaître	affixed	n	object	contre	50	0.6480248611312638
+NC:motard	affixed	n	domain	ard	51	0.6480064808424331
+NC:bricoleur	affixed	v	action	eur	52	0.6476914804066356
+NC:comptable	conversion	a	property		53	0.6474615786014637
+NC:arnaqueur	affixed	v	action	eur	54	0.6462904426206816
+NC:forgeron	affixed	v	action	on	55	0.6462684851345711
+NC:souteneur	affixed	v	action	eur	56	0.6461518145968641
+NC:meurtrier	affixed	n	action	ier	57	0.64514317311114
+NC:vendeur	affixed	v	action	eur	58	0.6440659437963585
+NC:photographe	compound				59	0.6440279043461509
+NC:dealer	complex				60	0.6433490118502273
+NC:chien	simple				61	0.6432251439139409
+NC:arriviste	affixed	v	action	iste	62	0.6428610600801354
+NC:fraudeur	affixed	v	action	eur	63	0.6427235955971925
+NC:aventurier	affixed	n	action	ier	64	0.6426172218552254
+NC:chapelier	affixed	n	object	ier	65	0.6425156606624799
+NC:clown	simple				66	0.6420928811709077
+NC:cow-boy	simple				67	0.6415534122008157
+NC:vétérinaire	complex				68	0.6415353094585509
+NC:gaffeur	affixed	v	action	eur	69	0.6412659439123779
+NC:illusionniste	affixed	n	action	iste	70	0.6398708512240805
+NC:racketteur	affixed	v	action	eur	71	0.6395135030249662
+NC:râleur	affixed	v	action	eur	72	0.6393440740550677
+NC:apprenti	complex				73	0.6389905550693703
+NC:balayeur	affixed	v	action	eur	74	0.638893148306138
+NC:cascadeur	affixed	n	action	eur	75	0.6374233430023483
+NC:débauché	conversion	a	property		76	0.6371685574901372
+NC:travesti	conversion	v	action		77	0.6359567810891361
+NC:imitateur	affixed	v	action	eur	78	0.6352930939559092
+NC:tatoueur	affixed	v	action	eur	79	0.6352051176868196
+NC:espion	affixed	v	action	on	80	0.6347882405245993
+NC:cruciverbiste	complex				81	0.6339511284679724
+NC:indic	extragram				82	0.6337362625434625
+NC:recruteur	affixed	v	action	eur	83	0.6337278024431617
+NC:séducteur	affixed	v	action	eur	84	0.6332569021364193
+NC:dentiste	affixed	n	object	iste	85	0.632557021940569
+NC:fanfaron	undet				86	0.6325473179723764
+NC:couturier	affixed	n	domain	ier	87	0.6313663496774924
+NC:héros	simple				88	0.6309600523821757
+NC:tricheur	affixed	v	action	eur	89	0.6303140882924565
+NC:complice	undet				90	0.6303018850278613
+NC:délateur	affixed	v	action	eur	91	0.6301345679389392
+NC:boulanger	affixed	n	domain	ier	92	0.629612712471755
+NC:cordonnier	affixed	n	object	ier	93	0.6291534093624283
+NC:masseur	affixed	v	action	eur	94	0.627825544921079
+NC:imposteur	affixed	v	action	eur	95	0.6274473658907943
+NC:garçon	simple				96	0.6268044404385621
+NC:sadique	conversion	a	property		97	0.626712427673031
+NC:alcoolique	conversion	a	property		98	0.6258681275012316
+NC:ferrailleur	affixed	v	action	eur	99	0.6255369470293143
+NC:maquignon	simple				100	0.6254381376226534
