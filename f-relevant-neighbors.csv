@@ -1,15 +1,15 @@
 NEIGHBOUR	CENTROID	MORPH	G.BASE	S.BASE	AFFIX	RANK	COS C1  C2  C3
-NC:coiffeur	b	affixed	v	action	eur	1	0.8232395739784977	1	0	0
-NC:plombier	b	affixed	n	object	ier	2	0.8074516023783037	1	0	0
-NC:garagiste	b	affixed	n	object	iste	3	0.7750659116610789	1	0	0
-NC:soigneur	b	affixed	v	action	eur	4	0.7474132530609408	1	0	0
-NC:contremaître	b	compound				5	0.7458458703421483	1	0	0
-NC:cuisinier	b	affixed	n	domain	ier	6	0.7432054271884547	1	0	0
-NC:dentiste	b	affixed	n	object	iste	7	0.743200896555855	1	0	0
-NC:masseur	b	affixed	v	action	eur	8	0.7421061266065733	1	0	0
-NC:apprenti	b	complex				9	0.7412564977068359	1	0	0
-NC:magasinier	b	affixed	n	object	ier	10	0.7384272288500757	1	0	0
-NC:machiniste	b	affixed	n	object	iste	11	0.7372864128957398	1	0	0
+NC:coiffeur	f	affixed	v	action	eur	1	0.8232395739784977	1	0	0
+NC:plombier	f	affixed	n	object	ier	2	0.8074516023783037	1	0	0
+NC:garagiste	f	affixed	n	object	iste	3	0.7750659116610789	1	0	0
+NC:soigneur	f	affixed	v	action	eur	4	0.7474132530609408	1	0	0
+NC:contremaître	f	compound				5	0.7458458703421483	1	0	0
+NC:cuisinier	f	affixed	n	domain	ier	6	0.7432054271884547	1	0	0
+NC:dentiste	f	affixed	n	object	iste	7	0.743200896555855	1	0	0
+NC:masseur	f	affixed	v	action	eur	8	0.7421061266065733	1	0	0
+NC:apprenti	f	complex				9	0.7412564977068359	1	0	0
+NC:magasinier	f	affixed	n	object	ier	10	0.7384272288500757	1	0	0
+NC:machiniste	f	affixed	n	object	iste	11	0.7372864128957398	1	0	0
 NC:déménageur	b	affixed	v	action	eur	12	0.7332225403660951	1	0	0
 NC:vétérinaire	b	complex				13	0.7227459863384312	1	0	0
 NC:jardinier	b	affixed	n	object	ier	14	0.7202121558964345	1	0	0
