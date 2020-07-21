@@ -10,92 +10,92 @@ NC:masseur	f	affixed	v	action	eur	8	0.7421061266065733	1	0	0
 NC:apprenti	f	complex				9	0.7412564977068359	1	0	0
 NC:magasinier	f	affixed	n	object	ier	10	0.7384272288500757	1	0	0
 NC:machiniste	f	affixed	n	object	iste	11	0.7372864128957398	1	0	0
-NC:déménageur	b	affixed	v	action	eur	12	0.7332225403660951	1	0	0
-NC:vétérinaire	b	complex				13	0.7227459863384312	1	0	0
-NC:jardinier	b	affixed	n	object	ier	14	0.7202121558964345	1	0	0
-NC:cordonnier	b	affixed	n	object	ier	15	0.7153406999802581	1	0	0
-NC:accessoiriste	b	affixed	n	object	iste	16	0.7128321837128824	1	0	0
-NC:bijoutier	b	affixed	n	object	ier	17	0.7122325672555339	1	0	0
-NC:tatoueur	b	affixed	v	action	eur	18	0.7110771451177696	1	0	0
-NC:pompiste	b	affixed	n	object	iste	19	0.7049076357928439	1	0	0
-NC:électricien	b	affixed	n	domain	ien	20	0.7033636315819654	1	0	0
-NC:armurier	b	affixed	n	object	ier	21	0.6985618347052438	1	0	0
-NC:maquilleur	b	affixed	v	action	eur	22	0.6976744925990357	1	0	0
-NC:prestidigitateur	b	affixed	v	action	eur	23	0.6961312500541526	1	0	0
-NC:rabatteur	b	affixed	v	action	eur	24	0.6947473579520592	1	0	1
-NC:postier	b	affixed	n	institution	ier	25	0.6928260297505952	1	0	0
-NC:marionnettiste	b	affixed	n	object	iste	26	0.6921896595856837	1	0	0
-NC:cascadeur	b	affixed	v	action	eur	27	0.6916639189772289	1	0	0
-NC:livreur	b	affixed	v	action	eur	28	0.6884697400187327	1	1	0
-NC:bottier	b	affixed	n	object	ier	29	0.6844440215121699	1	0	0
-NC:photographe	b	compound				30	0.6837888774232456	1	1	0
-NC:couturier	b	affixed	n	domain	ier	31	0.6816364729915042	1	0	0
-NC:restaurateur	b	affixed	v	action	eur	32	0.6809512635978434	1	1	0
-NC:quincaillier	b	affixed	n	object	ier	33	0.678643925579753	1	0	0
-NC:mécanicien	b	affixed	n	domain	ien	34	0.6784220460635443	1	0	0
-NC:comptable	b	conversion	a	property		35	0.6783197015866724	1	0	0
-NC:boucher	b	affixed	n	object	ier	36	0.6776386107482517	1	0	0
-NC:encadreur	b	affixed	v	action	eur	37	0.6771798256371518	1	1	0
-NC:étalagiste	b	affixed	n	object	iste	38	0.6745772322864966	1	0	0
-NC:pickpocket	b	simple				39	0.6745509627958652	1	0	1
-NC:cuistot	b	complex				40	0.6743442389246671	1	0	0
-NC:forgeron	b	affixed	v	action	on	41	0.670799843968597	1	0	0
-NC:maréchal-ferrant	b	compound				42	0.6705116062153672	1	0	0
-NC:camionneur	b	affixed	n	object	eur	43	0.6695147498464774	1	0	0
-NC:éducateur	b	affixed	v	action	eur	44	0.6689486579529423	1	0	0
-NC:boulanger	b	affixed	n	domain	ier	45	0.6683859597325089	1	0	0
-NC:tailleur	b	affixed	v	action	eur	46	0.6683102954332976	1	0	0
-NC:chaudronnier	b	affixed	n	object	ier	47	0.667076446323936	1	0	0
-NC:chirurgien	b	affixed	n	domain	ien	48	0.6660624457254816	1	0	0
-NC:styliste	b	affixed	n	property	iste	49	0.6659748807723161	1	0	0
-NC:laborantin	b	complex				50	0.6657578819672464	1	0	0
-NC:ventriloque	b	compound				51	0.6653338783181657	1	0	0
-NC:pharmacien	b	affixed	n	domain	ien	52	0.6652990379844249	1	0	0
-NC:cafetier	b	affixed	n	object	ier	53	0.6651782458140403	1	0	0
-NC:plâtrier	b	affixed	n	object	ier	54	0.6640963359940433	1	0	0
-NC:soudeur	b	affixed	v	action	eur	55	0.6632853550659374	1	0	0
-NC:perruquier	b	affixed	n	object	ier	56	0.6631649995583645	1	0	0
-NC:miroitier	b	affixed	n	object	ier	57	0.662138113804952	1	0	0
-NC:assistant	b	conversion	v	action		58	0.6608548973156086	1	0	0
-NC:videur	b	affixed	v	action	eur	59	0.6598110175208608	1	0	0
-NC:ambulancier	b	affixed	n	object	ier	60	0.6591228214637372	1	0	0
-NC:truand	b	undet				61	0.6587701800202312	1	0	1
-NC:éboueur	b	affixed	v	action	eur	62	0.6584433258608529	1	0	0
-NC:bricoleur	b	affixed	v	action	eur	63	0.6581631262853656	0	0	1
-NC:proxénète	b	simple				64	0.6581218729921515	1	0	1
-NC:épicier	b	affixed	n	object	ier	65	0.6570717408130934	1	0	0
-NC:coursier	b	affixed	n	action	ier	66	0.6542099426471879	1	0	1
-NC:maître-nageur	b	compound				67	0.6541204172654408	1	0	0
-NC:palefrenier	b	complex				68	0.6539402207637423	1	0	0
-NC:serrurier	b	affixed	n	object	ier	69	0.6530620919218518	1	0	0
-NC:vitrier	b	affixed	n	object	ier	70	0.6518408632132233	1	0	0
-NC:taxidermiste	b	affixed	n	domain	iste	71	0.6507940088310532	1	0	0
-NC:barman	b	compound				72	0.650632104787192	1	0	0
-NC:vendeur	b	affixed	v	action	eur	73	0.6503962648843062	1	1	1
-NC:charpentier	b	affixed	n	object	ier	74	0.6495428859609199	1	0	0
-NC:radiologue	b	affixed	n	action	logue	75	0.6493650788218577	1	0	0
-NC:technicien	b	affixed	n	domain	ien	76	0.6492258320850541	1	0	0
-NC:chiropracteur	b	affixed	n	domain	eur	77	0.6489558895839145	1	0	0
-NC:chauffeur-livreur	b	compound				78	0.648112576083483	1	0	0
-NC:portefaix	b	compound				79	0.6460188275264857	1	0	0
-NC:liftier	b	complex				80	0.6455876049603342	1	0	0
-NC:chapelier	b	affixed	n	object	ier	81	0.6435952204234339	1	0	0
-NC:aubergiste	b	affixed	n	object	iste	82	0.6430606743711708	1	0	0
-NC:comédien	b	affixed	n	domain	ien	83	0.6430323838962113	1	0	0
-NC:hôtelier	b	affixed	n	object	ier	84	0.6420143529004237	1	0	0
-NC:menuisier	b	affixed	n	object	ier	85	0.6403907917255148	1	0	0
-NC:pâtissier	b	affixed	n	object	ier	86	0.6396633168543172	1	0	0
-NC:médecin	b	simple				87	0.637744439302958	1	0	0
-NC:surveillant	b	conversion	v	action		88	0.6375119844029283	1	0	0
-NC:charcutier	b	affixed	v	action	ier	89	0.6372718354148217	1	0	0
-NC:manutentionnaire	b	affixed	n	domain	aire	90	0.6365756380551276	1	0	0
-NC:dompteur	b	affixed	v	action	eur	91	0.6357626029590725	1	0	0
-NC:portier	b	affixed	n	object	ier	92	0.6355200790360639	1	0	0
-NC:cireur	b	affixed	v	action	eur	93	0.6350420110139477	1	0	0
-NC:trapéziste	b	affixed	n	object	iste	94	0.6332401154955983	1	0	0
-NC:caissier	b	affixed	n	object	ier	95	0.6321619652483692	1	0	0
-NC:gérant	b	conversion	v	action		96	0.6314331698237063	1	1	0
-NC:employé	b	conversion	v	action		97	0.631371071405083	1	0	0
-NC:brocanteur	b	affixed	v	action	eur	98	0.6308409694756172	1	0	1
-NC:cardiologue	b	affixed	n	object	logue	99	0.6306899902123726	1	0	0
-NC:drogué	b	conversion	v	action		100	0.6301789927428468	0	0	1
+NC:déménageur	f	affixed	v	action	eur	12	0.7332225403660951	1	0	0
+NC:vétérinaire	f	complex				13	0.7227459863384312	1	0	0
+NC:jardinier	f	affixed	n	object	ier	14	0.7202121558964345	1	0	0
+NC:cordonnier	f	affixed	n	object	ier	15	0.7153406999802581	1	0	0
+NC:accessoiriste	f	affixed	n	object	iste	16	0.7128321837128824	1	0	0
+NC:bijoutier	f	affixed	n	object	ier	17	0.7122325672555339	1	0	0
+NC:tatoueur	f	affixed	v	action	eur	18	0.7110771451177696	1	0	0
+NC:pompiste	f	affixed	n	object	iste	19	0.7049076357928439	1	0	0
+NC:électricien	f	affixed	n	domain	ien	20	0.7033636315819654	1	0	0
+NC:armurier	f	affixed	n	object	ier	21	0.6985618347052438	1	0	0
+NC:maquilleur	f	affixed	v	action	eur	22	0.6976744925990357	1	0	0
+NC:prestidigitateur	f	affixed	v	action	eur	23	0.6961312500541526	1	0	0
+NC:rabatteur	f	affixed	v	action	eur	24	0.6947473579520592	1	0	1
+NC:postier	f	affixed	n	institution	ier	25	0.6928260297505952	1	0	0
+NC:marionnettiste	f	affixed	n	object	iste	26	0.6921896595856837	1	0	0
+NC:cascadeur	f	affixed	v	action	eur	27	0.6916639189772289	1	0	0
+NC:livreur	f	affixed	v	action	eur	28	0.6884697400187327	1	1	0
+NC:bottier	f	affixed	n	object	ier	29	0.6844440215121699	1	0	0
+NC:photographe	f	compound				30	0.6837888774232456	1	1	0
+NC:couturier	f	affixed	n	domain	ier	31	0.6816364729915042	1	0	0
+NC:restaurateur	f	affixed	v	action	eur	32	0.6809512635978434	1	1	0
+NC:quincaillier	f	affixed	n	object	ier	33	0.678643925579753	1	0	0
+NC:mécanicien	f	affixed	n	domain	ien	34	0.6784220460635443	1	0	0
+NC:comptable	f	conversion	a	property		35	0.6783197015866724	1	0	0
+NC:boucher	f	affixed	n	object	ier	36	0.6776386107482517	1	0	0
+NC:encadreur	f	affixed	v	action	eur	37	0.6771798256371518	1	1	0
+NC:étalagiste	f	affixed	n	object	iste	38	0.6745772322864966	1	0	0
+NC:pickpocket	f	simple				39	0.6745509627958652	1	0	1
+NC:cuistot	f	complex				40	0.6743442389246671	1	0	0
+NC:forgeron	f	affixed	v	action	on	41	0.670799843968597	1	0	0
+NC:maréchal-ferrant	f	compound				42	0.6705116062153672	1	0	0
+NC:camionneur	f	affixed	n	object	eur	43	0.6695147498464774	1	0	0
+NC:éducateur	f	affixed	v	action	eur	44	0.6689486579529423	1	0	0
+NC:boulanger	f	affixed	n	domain	ier	45	0.6683859597325089	1	0	0
+NC:tailleur	f	affixed	v	action	eur	46	0.6683102954332976	1	0	0
+NC:chaudronnier	f	affixed	n	object	ier	47	0.667076446323936	1	0	0
+NC:chirurgien	f	affixed	n	domain	ien	48	0.6660624457254816	1	0	0
+NC:styliste	f	affixed	n	property	iste	49	0.6659748807723161	1	0	0
+NC:laborantin	f	complex				50	0.6657578819672464	1	0	0
+NC:ventriloque	f	compound				51	0.6653338783181657	1	0	0
+NC:pharmacien	f	affixed	n	domain	ien	52	0.6652990379844249	1	0	0
+NC:cafetier	f	affixed	n	object	ier	53	0.6651782458140403	1	0	0
+NC:plâtrier	f	affixed	n	object	ier	54	0.6640963359940433	1	0	0
+NC:soudeur	f	affixed	v	action	eur	55	0.6632853550659374	1	0	0
+NC:perruquier	f	affixed	n	object	ier	56	0.6631649995583645	1	0	0
+NC:miroitier	f	affixed	n	object	ier	57	0.662138113804952	1	0	0
+NC:assistant	f	conversion	v	action		58	0.6608548973156086	1	0	0
+NC:videur	f	affixed	v	action	eur	59	0.6598110175208608	1	0	0
+NC:ambulancier	f	affixed	n	object	ier	60	0.6591228214637372	1	0	0
+NC:truand	f	undet				61	0.6587701800202312	1	0	1
+NC:éboueur	f	affixed	v	action	eur	62	0.6584433258608529	1	0	0
+NC:bricoleur	f	affixed	v	action	eur	63	0.6581631262853656	0	0	1
+NC:proxénète	f	simple				64	0.6581218729921515	1	0	1
+NC:épicier	f	affixed	n	object	ier	65	0.6570717408130934	1	0	0
+NC:coursier	f	affixed	n	action	ier	66	0.6542099426471879	1	0	1
+NC:maître-nageur	f	compound				67	0.6541204172654408	1	0	0
+NC:palefrenier	f	complex				68	0.6539402207637423	1	0	0
+NC:serrurier	f	affixed	n	object	ier	69	0.6530620919218518	1	0	0
+NC:vitrier	f	affixed	n	object	ier	70	0.6518408632132233	1	0	0
+NC:taxidermiste	f	affixed	n	domain	iste	71	0.6507940088310532	1	0	0
+NC:barman	f	compound				72	0.650632104787192	1	0	0
+NC:vendeur	f	affixed	v	action	eur	73	0.6503962648843062	1	1	1
+NC:charpentier	f	affixed	n	object	ier	74	0.6495428859609199	1	0	0
+NC:radiologue	f	affixed	n	action	logue	75	0.6493650788218577	1	0	0
+NC:technicien	f	affixed	n	domain	ien	76	0.6492258320850541	1	0	0
+NC:chiropracteur	f	affixed	n	domain	eur	77	0.6489558895839145	1	0	0
+NC:chauffeur-livreur	f	compound				78	0.648112576083483	1	0	0
+NC:portefaix	f	compound				79	0.6460188275264857	1	0	0
+NC:liftier	f	complex				80	0.6455876049603342	1	0	0
+NC:chapelier	f	affixed	n	object	ier	81	0.6435952204234339	1	0	0
+NC:aubergiste	f	affixed	n	object	iste	82	0.6430606743711708	1	0	0
+NC:comédien	f	affixed	n	domain	ien	83	0.6430323838962113	1	0	0
+NC:hôtelier	f	affixed	n	object	ier	84	0.6420143529004237	1	0	0
+NC:menuisier	f	affixed	n	object	ier	85	0.6403907917255148	1	0	0
+NC:pâtissier	f	affixed	n	object	ier	86	0.6396633168543172	1	0	0
+NC:médecin	f	simple				87	0.637744439302958	1	0	0
+NC:surveillant	f	conversion	v	action		88	0.6375119844029283	1	0	0
+NC:charcutier	f	affixed	v	action	ier	89	0.6372718354148217	1	0	0
+NC:manutentionnaire	f	affixed	n	domain	aire	90	0.6365756380551276	1	0	0
+NC:dompteur	f	affixed	v	action	eur	91	0.6357626029590725	1	0	0
+NC:portier	f	affixed	n	object	ier	92	0.6355200790360639	1	0	0
+NC:cireur	f	affixed	v	action	eur	93	0.6350420110139477	1	0	0
+NC:trapéziste	f	affixed	n	object	iste	94	0.6332401154955983	1	0	0
+NC:caissier	f	affixed	n	object	ier	95	0.6321619652483692	1	0	0
+NC:gérant	f	conversion	v	action		96	0.6314331698237063	1	1	0
+NC:employé	f	conversion	v	action		97	0.631371071405083	1	0	0
+NC:brocanteur	f	affixed	v	action	eur	98	0.6308409694756172	1	0	1
+NC:cardiologue	f	affixed	n	object	logue	99	0.6306899902123726	1	0	0
+NC:drogué	f	conversion	v	action		100	0.6301789927428468	0	0	1
