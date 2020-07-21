@@ -14,6 +14,7 @@ Neighbors are presented in .csv files composed of 7 columns separated by tabulat
 * its exponent when relevant(AFFIX)
 * its rank in the neighborhood (RANK)
 * its proximity score to the centroid (COS)
+
 Neighbors lists for functional, occasional and behavioral agent nouns centroids contains 4 more columns:
 * CENTROID: indicating the centroid to which neighborhood the noun belongs ("f" stands for functional, "o" for occasional, and "b" for behavioral)
 * C1, C2 and C3: indicating whether the noun validates (1) or not (0) conditions 1, 2 and 3
