@@ -1,87 +1,87 @@
 NEIGHBOUR	CENTROID	MORPH	G.BASE	S.BASE	AFFIX	RANK	COS C1  C2  C3
-NC:assassin	b	undet				1	0.8054145717941807	0	1	0
-NC:meurtrier	b	affixed	n	action	ier	2	0.7934676589885143	0	1	0
-NC:geôlier	b	affixed	n	object	ier	3	0.778648303695468	1	0	0
-NC:bourreau	b	simple				4	0.7600370953453289	1	1	1
-NC:tortionnaire	b	affixed	n	action	aire	5	0.7550576091840909	0	1	1
-NC:agresseur	b	affixed	v	action	eur	6	0.7463516134151453	0	1	0
-NC:imposteur	b	affixed	v	action	eur	7	0.7459215178715213	0	0	1
-NC:complice	b	undet				8	0.7416716343905679	0	0	0
-NC:traître	b	simple				9	0.7415246777728569	0	0	1
-NC:héros	b	simple				10	0.7407061182484223	0	0	0
-NC:serviteur	b	affixed	v	action	eur	11	0.7303915183202543	1	0	0
-NC:ravisseur	b	affixed	v	action	eur	12	0.7233884084344314	0	1	0
-NC:délateur	b	affixed	v	action	eur	13	0.7147054819258075	0	1	1
-NC:acolyte	b	simple				14	0.70926175307809	0	0	0
-NC:amant	b	conversion	v	action		15	0.7084801859691277	0	1	0
-NC:comploteur	b	affixed	v	action	eur	16	0.6990374805351989	0	1	1
-NC:sbire	b	simple				17	0.6989980745281332	0	0	0
-NC:criminel	b	conversion	a	property		18	0.6907133831582034	0	0	1
-NC:voleur	b	affixed	v	action	eur	19	0.6906327706055473	1	1	1
-NC:charlatan	b	simple				20	0.6899625108736152	0	0	1
-NC:conspirateur	b	affixed	v	action	eur	21	0.6899144785115962	0	1	1
-NC:persécuteur	b	affixed	v	action	eur	22	0.6856504687473957	0	1	0
-NC:sadique	b	conversion	a	property		23	0.6811917397911534	0	0	1
-NC:comparse	b	complex				24	0.6781548976707077	0	0	0
-NC:souteneur	b	affixed	v	action	eur	25	0.6773379089881657	1	0	0
-NC:compagnon	b	complex				26	0.6768281134299082	1	0	0
-NC:sorcier	b	affixed	n	action	ier	27	0.6764037776793431	1	0	0
-NC:sous-fifre	b	affixed	n	object	sous	28	0.6751738689708058	0	0	0
-NC:débauché	b	conversion	a	property		29	0.6738738442808262	0	0	1
-NC:magicien	b	affixed	n	domain	ien	30	0.6738573834307455	1	0	0
-NC:proxénète	b	simple				31	0.6738351577393308	1	0	1
-NC:dénonciateur	b	affixed	v	action	eur	32	0.6726252156960421	0	1	0
-NC:traitre	b	simple				33	0.6699627025772829	0	0	1
-NC:coupable	b	conversion	a	property		34	0.6698756583106046	0	0	0
-NC:malfrat	b	complex				36	0.6670214042543314	1	0	1
-NC:fraudeur	b	affixed	v	action	eur	37	0.6643413990657556	0	1	1
-NC:commanditaire	b	affixed	n	action	aire	38	0.6626674869883614	0	1	0
-NC:violeur	b	affixed	v	action	eur	39	0.6624430337864001	0	1	1
-NC:bandit	b	simple				40	0.6608037023409065	1	0	1
-NC:envieux	b	conversion	a	property		41	0.6604712638777062	0	0	1
-NC:faussaire	b	affixed	n	object	aire	43	0.6561443711227344	1	0	1
-NC:kidnappeur	b	affixed	v	action	eur	44	0.65567052500516	0	1	0
-NC:félon	b	undet				45	0.6552542786463645	0	0	1
-NC:domestique	b	conversion	a	property		46	0.6547727796765004	1	0	0
-NC:escroc	b	undet				47	0.6526396177890745	1	0	1
-NC:ennemi	b	undet				48	0.652534119387641	0	0	1
-NC:méchant	b	undet	a	property		49	0.6522300356526154	0	0	1
-NC:truand	b	undet				50	0.6504911414283839	1	0	1
-NC:fantôme	b	simple				51	0.649676106838041	0	0	0
-NC:dompteur	b	affixed	v	action	eur	52	0.6489988238456352	1	0	0
-NC:protagoniste	b	complex				53	0.6485098810172092	0	1	0
-NC:oppresseur	b	affixed	v	action	eur	54	0.6467009230449884	0	1	1
-NC:sosie	b	simple				55	0.6445736417738817	0	0	0
-NC:confrère	b	affixed		object	co	56	0.6441665883531759	0	0	0
-NC:fanatique	b	conversion	a	property		57	0.6436064797474236	0	0	1
-NC:ivrogne	b	complex				58	0.6422089467514018	0	0	1
-NC:gangster	b	complex				59	0.6414476056329033	1	0	1
-NC:immortel	b	conversion	a	property		60	0.6397430044318395	0	0	0
-NC:larbin	b	simple				61	0.6392985685263902	0	0	0
-NC:harceleur	b	affixed	v	action	eur	63	0.6366447435021602	0	1	1
-NC:ignorant	b	conversion	a	property		64	0.6365584445041813	0	0	1
-NC:soupirant	b	conversion	v	action		66	0.635757264025146	0	0	0
-NC:démon	b	simple				67	0.6356427976965096	0	0	0
-NC:éveillé	b	conversion	v	action		68	0.6350476300843605	0	0	0
-NC:sauveur	b	affixed	v	action	eur	69	0.6348655462770358	0	1	0
-NC:braconnier	b	affixed	v	action	ier	72	0.632834720043852	1	0	1
-NC:séide	b	simple				73	0.6328051228614597	0	0	0
-NC:fiancé	b	conversion	v	action		74	0.6322628519515403	0	0	0
-NC:calomniateur	b	affixed	v	action	eur	75	0.6320837391413965	0	1	0
-NC:interlocuteur	b	affixed	n	object	inter	77	0.6314573607236665	0	1	0
-NC:suppôt	b	simple				78	0.6314514010875042	0	0	0
-NC:gêneur	b	affixed	v	action	eur	79	0.6308487075663932	0	0	1
-NC:blasphémateur	b	affixed	v	action	eur	80	0.630034656688166	0	0	1
-NC:vampire	b	simple				81	0.6297155111630124	0	0	0
-NC:scélérat	b	undet				82	0.6289178318848447	0	0	1
-NC:informateur	b	affixed	v	action	eur	84	0.6280426986314656	1	1	1
-NC:tourmenteur	b	affixed	v	action	eur	85	0.6280237095127783	0	1	0
-NC:nabot	b	simple				87	0.6268900749716246	0	0	0
-NC:receleur	b	affixed	v	action	eur	88	0.6267576116325075	1	1	1
-NC:cambrioleur	b	affixed	v	action	eur	90	0.6264619502400877	1	1	1
-NC:voyou	b	undet				91	0.6263125809609077	1	0	1
-NC:cannibale	b	simple				92	0.625517338062845	0	0	0
-NC:vaurien	b	compound				93	0.6244726935725602	0	0	1
+NC:assassin	o	undet				1	0.8054145717941807	0	1	0
+NC:meurtrier	o	affixed	n	action	ier	2	0.7934676589885143	0	1	0
+NC:geôlier	o	affixed	n	object	ier	3	0.778648303695468	1	0	0
+NC:bourreau	o	simple				4	0.7600370953453289	1	1	1
+NC:tortionnaire	o	affixed	n	action	aire	5	0.7550576091840909	0	1	1
+NC:agresseur	o	affixed	v	action	eur	6	0.7463516134151453	0	1	0
+NC:imposteur	o	affixed	v	action	eur	7	0.7459215178715213	0	0	1
+NC:complice	o	undet				8	0.7416716343905679	0	0	0
+NC:traître	o	simple				9	0.7415246777728569	0	0	1
+NC:héros	o	simple				10	0.7407061182484223	0	0	0
+NC:serviteur	o	affixed	v	action	eur	11	0.7303915183202543	1	0	0
+NC:ravisseur	o	affixed	v	action	eur	12	0.7233884084344314	0	1	0
+NC:délateur	o	affixed	v	action	eur	13	0.7147054819258075	0	1	1
+NC:acolyte	o	simple				14	0.70926175307809	0	0	0
+NC:amant	o	conversion	v	action		15	0.7084801859691277	0	1	0
+NC:comploteur	o	affixed	v	action	eur	16	0.6990374805351989	0	1	1
+NC:sbire	o	simple				17	0.6989980745281332	0	0	0
+NC:criminel	o	conversion	a	property		18	0.6907133831582034	0	0	1
+NC:voleur	o	affixed	v	action	eur	19	0.6906327706055473	1	1	1
+NC:charlatan	o	simple				20	0.6899625108736152	0	0	1
+NC:conspirateur	o	affixed	v	action	eur	21	0.6899144785115962	0	1	1
+NC:persécuteur	o	affixed	v	action	eur	22	0.6856504687473957	0	1	0
+NC:sadique	o	conversion	a	property		23	0.6811917397911534	0	0	1
+NC:comparse	o	complex				24	0.6781548976707077	0	0	0
+NC:souteneur	o	affixed	v	action	eur	25	0.6773379089881657	1	0	0
+NC:compagnon	o	complex				26	0.6768281134299082	1	0	0
+NC:sorcier	o	affixed	n	action	ier	27	0.6764037776793431	1	0	0
+NC:sous-fifre	o	affixed	n	object	sous	28	0.6751738689708058	0	0	0
+NC:débauché	o	conversion	a	property		29	0.6738738442808262	0	0	1
+NC:magicien	o	affixed	n	domain	ien	30	0.6738573834307455	1	0	0
+NC:proxénète	o	simple				31	0.6738351577393308	1	0	1
+NC:dénonciateur	o	affixed	v	action	eur	32	0.6726252156960421	0	1	0
+NC:traitre	o	simple				33	0.6699627025772829	0	0	1
+NC:coupable	o	conversion	a	property		34	0.6698756583106046	0	0	0
+NC:malfrat	o	complex				36	0.6670214042543314	1	0	1
+NC:fraudeur	o	affixed	v	action	eur	37	0.6643413990657556	0	1	1
+NC:commanditaire	o	affixed	n	action	aire	38	0.6626674869883614	0	1	0
+NC:violeur	o	affixed	v	action	eur	39	0.6624430337864001	0	1	1
+NC:bandit	o	simple				40	0.6608037023409065	1	0	1
+NC:envieux	o	conversion	a	property		41	0.6604712638777062	0	0	1
+NC:faussaire	o	affixed	n	object	aire	43	0.6561443711227344	1	0	1
+NC:kidnappeur	o	affixed	v	action	eur	44	0.65567052500516	0	1	0
+NC:félon	o	undet				45	0.6552542786463645	0	0	1
+NC:domestique	o	conversion	a	property		46	0.6547727796765004	1	0	0
+NC:escroc	o	undet				47	0.6526396177890745	1	0	1
+NC:ennemi	o	undet				48	0.652534119387641	0	0	1
+NC:méchant	o	undet	a	property		49	0.6522300356526154	0	0	1
+NC:truand	o	undet				50	0.6504911414283839	1	0	1
+NC:fantôme	o	simple				51	0.649676106838041	0	0	0
+NC:dompteur	o	affixed	v	action	eur	52	0.6489988238456352	1	0	0
+NC:protagoniste	o	complex				53	0.6485098810172092	0	1	0
+NC:oppresseur	o	affixed	v	action	eur	54	0.6467009230449884	0	1	1
+NC:sosie	o	simple				55	0.6445736417738817	0	0	0
+NC:confrère	o	affixed		object	co	56	0.6441665883531759	0	0	0
+NC:fanatique	o	conversion	a	property		57	0.6436064797474236	0	0	1
+NC:ivrogne	o	complex				58	0.6422089467514018	0	0	1
+NC:gangster	o	complex				59	0.6414476056329033	1	0	1
+NC:immortel	o	conversion	a	property		60	0.6397430044318395	0	0	0
+NC:larbin	o	simple				61	0.6392985685263902	0	0	0
+NC:harceleur	o	affixed	v	action	eur	63	0.6366447435021602	0	1	1
+NC:ignorant	o	conversion	a	property		64	0.6365584445041813	0	0	1
+NC:soupirant	o	conversion	v	action		66	0.635757264025146	0	0	0
+NC:démon	o	simple				67	0.6356427976965096	0	0	0
+NC:éveillé	o	conversion	v	action		68	0.6350476300843605	0	0	0
+NC:sauveur	o	affixed	v	action	eur	69	0.6348655462770358	0	1	0
+NC:braconnier	o	affixed	v	action	ier	72	0.632834720043852	1	0	1
+NC:séide	o	simple				73	0.6328051228614597	0	0	0
+NC:fiancé	o	conversion	v	action		74	0.6322628519515403	0	0	0
+NC:calomniateur	o	affixed	v	action	eur	75	0.6320837391413965	0	1	0
+NC:interlocuteur	o	affixed	n	object	inter	77	0.6314573607236665	0	1	0
+NC:suppôt	o	simple				78	0.6314514010875042	0	0	0
+NC:gêneur	o	affixed	v	action	eur	79	0.6308487075663932	0	0	1
+NC:blasphémateur	o	affixed	v	action	eur	80	0.630034656688166	0	0	1
+NC:vampire	o	simple				81	0.6297155111630124	0	0	0
+NC:scélérat	o	undet				82	0.6289178318848447	0	0	1
+NC:informateur	o	affixed	v	action	eur	84	0.6280426986314656	1	1	1
+NC:tourmenteur	o	affixed	v	action	eur	85	0.6280237095127783	0	1	0
+NC:nabot	o	simple				87	0.6268900749716246	0	0	0
+NC:receleur	o	affixed	v	action	eur	88	0.6267576116325075	1	1	1
+NC:cambrioleur	o	affixed	v	action	eur	90	0.6264619502400877	1	1	1
+NC:voyou	o	undet				91	0.6263125809609077	1	0	1
+NC:cannibale	o	simple				92	0.625517338062845	0	0	0
+NC:vaurien	o	compound				93	0.6244726935725602	0	0	1
 NC:majordome	b	simple				94	0.6230526523086717	1	0	0
 NC:usurier	b	affixed	n	domain	ier	95	0.6229950106048211	1	0	1
 NC:fugitif	b	conversion	a	property		96	0.6226918100215326	0	0	0
